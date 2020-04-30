@@ -14,9 +14,6 @@ feature
 			io.put_string (" 77 is perfect...%T")
 			io.put_boolean (is_perfect_number (77))
 			io.new_line
-			io.put_string ("128 is perfect...%T")
-			io.put_boolean (is_perfect_number (128))
-			io.new_line
 			io.put_string ("496 is perfect...%T")
 			io.put_boolean (is_perfect_number (496))
 		end
